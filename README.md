@@ -57,6 +57,11 @@ Blinkit_Sales_Report/
   Home > Transform Data > Data Source Settings
 
 ---
+### Dashboard of this Project
+
+![image](https://github.com/user-attachments/assets/222d7da4-dea8-4812-a6e1-6b9e3a762b44)
+
+---
 
 ### 📊 Key Insights
  - 🔼 Tier 3 outlets generate the highest revenue ($472.13K)
