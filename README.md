@@ -31,25 +31,23 @@ Blinkit_Sales_Report/
 
 <pre> ```bash git clone https://github.com/your-repo/project-name.git cd project-name ``` </pre>
 
-2. Open the Power BI Report
+### 2. Open the Power BI Report
 Open Blinkit_Sales_Report.pbix using Power BI Desktop
 
 Ensure the dataset file Blinkit_sales.csv is in the same directory (or update the source path in Power BI)
-📌 Key Insights
+
+## 📌 Key Insights
 🔼 Highest sales occur in metro cities.
-
 ⏲️ Peak order time is between 5 PM and 9 PM.
-
 🛒 Most demanded categories: Dairy, Fruits, and Vegetables.
-
 💡 Monthly and daily trends help forecast inventory and optimize logistics.
 
-🔮 Future Enhancements
-Add DAX-based advanced KPIs
+## 🔮 Future Enhancements
 
-Integrate with real-time APIs or SQL data sources
+- ✅ Add **DAX-based advanced KPIs**
+- 🔄 Integrate with **real-time APIs** or **SQL data sources**
+- ☁️ Publish to **Power BI Service** for sharing and scheduled refresh
 
-Publish to Power BI Service for sharing and scheduled refresh
 
 🙌 Author
 Muhilan C
